@@ -63,9 +63,4 @@ The corresponding **dataset** and **pre-trained weights** can be accessed at Zen
 If you use this repository or the associated dataset, please cite:
 - Zenodo DOI: https://doi.org/10.5281/zenodo.17606660
 
-1. Contact
-
-For questions or collaborations, please contact:  
-fanlingxitc@163.com
-
 
